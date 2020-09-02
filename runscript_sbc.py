@@ -1,0 +1,3 @@
+from plotgen_functions import source_bar_compare
+
+source_bar_compare()
