@@ -1,2 +1,2 @@
 # DarkDisk_Microlensing
-Compute forecasts of microlensing constraints on dark compact objects with arbitrary Galactic distributions
+This code is used to compute forecasts of microlensing constraints on dark compact objects with arbitrary Galactic distributions. The specific Galactic distributions that can be tested are included in the [density_funcs.py] file. The python functions for generating the plots in the paper are included in the [plotgen_routines.py] file. The Jupyter notebook for displaying the plots from the data files included is [plot_routines.ipynb].
